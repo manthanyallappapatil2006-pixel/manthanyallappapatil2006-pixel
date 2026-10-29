@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Manthan — Lead Data Engineer, Tech Creator & Mentor passionate about Data, Clou...<br>I'm currently working on Scalable Data Pipelines, Cloud Migrations, Databricks & GenAI Sol...<br>I'm looking to collaborate on Open-Source Data Engineering, AI Agents & Cloud Projects<br>I'm looking for help with Building Innovative AI-Powered Data Engineering Tools<br>I'm currently learning Apache Kafka, dbt, GenAI Agents & Modern Data Architectures<br>Ask me about SQL, Python, PySpark, Databricks, Azure, AWS, GCP & Data Engineering Career<br>Fun fact: 100+ Interviews | 260K+ YouTube Community | Making Data Engineering Simple
+👋 Hi, I'm Manthan — a passionate aspiring Software Developer and AI enthusiast, learning HTML, CSS, JavaScript, React, Node.js, Python, and C++, building real-world projects like Safe Meds, exploring AI-powered solutions, and continuously improving my problem-solving skills while preparing for internships and contributing to innovative technology projects.
 
 
 ## 🌐 Socials:
